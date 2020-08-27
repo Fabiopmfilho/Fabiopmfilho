@@ -2,7 +2,8 @@
 
 
 ## Contato
-[![Twitter Badge](https://img.shields.io/twitter/url?style=social)](@Kathur_)
+[![Twitter Badge](https://img.shields.io/twitter/follow/@Kathur_?label=%40Kathur_&style=social)](https://twitter.com/Kathur_)
+
 
 <!--
 **Fabiopmfilho/Fabiopmfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
