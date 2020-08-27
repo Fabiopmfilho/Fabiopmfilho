@@ -19,7 +19,7 @@
   
 ### 📖 About me
 
-Well, I am currently studying Systems Analysis and Development and I have also joined knowledge through several courses, looking for my evolution day after day to become a recognized and reliable professional in the market.
+Well, I am currently studying Systems Analysis and Development and I have also acquired knowledge through several courses, looking for my evolution day after day to become a recognized and reliable professional in the market.
 
 </details>
 
