@@ -42,9 +42,20 @@ Well, I am currently studying Systems Analysis and Development and I have also a
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## 🌱 I’m currently learning
+I'm currently studying hard to become a full-stack developer. I am taking courses in the following languages and gaining more and more knowledge about them.
 
+#### 🌐 Front-end
+ - React.js
+ - Next.js
+ - JavaScript
 
+#### 🎲 Back-end
+  - node.js
+  - mongodb
 
+#### 📱 Mobile
+  - Flutter
 
 
 <!--
