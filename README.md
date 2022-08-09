@@ -12,7 +12,6 @@
 [![Twitter](https://img.shields.io/badge/Kathur_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Kathur_)
 [![Instagram](https://img.shields.io/badge/fk_fabio-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fk_fabio/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-filho-ab2a65137/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511999569942!)
 [![Gmail Badge](https://img.shields.io/badge/-fabiopmfilho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiopmfilho@gmail.com)](mailto:fabiopmfilho@gmail.com)
 
 <details>
