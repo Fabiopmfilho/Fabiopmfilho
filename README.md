@@ -19,7 +19,7 @@
   
 ### 📖 About me
 
-Well, I am currently studying Systems Analysis and Development and I have also acquired knowledge through several courses, looking for my evolution day after day to become a recognized and reliable professional in the market.
+Well, I'm a full-stack programmer focused on TypeScript with Next and Nest.js. I have a degree in Systems Analysis and Development from FATEC and have been working as a developer for four years.
 
 </details>
 
